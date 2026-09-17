@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "HTML & CSS",
+      "type": "Front-End",
+      "description": "Want to master HTML and CSS? Our hands-on course will guide you through the process of creating stunning, responsive websites. Learn the fundamentals of web design and development, from structuring content with HTML to styling it beautifully with CSS. With real-world projects, you'll gain the skills needed to build professional-grade websites that adapt to any screen size. Start your journey today and unlock the potential of web development!",
+      "technology": "HTML, CSS",
+      "duration": "2 Months",
+      "price": "10",
+      "instructor": {
+        "name": "Ibraahim Abdillahi",
+        "description": "An experienced web developer with expertise in crafting responsive and user-friendly websites. Mohamed has a passion for teaching HTML and CSS through practical, real-world projects.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "SQL Mastery",
+      "type": "Database",
+      "technology": "SQL, MySQL, Postgres..",
+      "description": "Ready to dive into SQL and databases? In our practical, beginner-friendly course, you'll learn how to efficiently manage and manipulate data using SQL. Understand database structures, queries, and advanced techniques to interact with relational databases. Whether you're building data-driven applications or analyzing data, this course will equip you with the skills to work confidently with SQL and databases. By the end, you'll be prepared to tackle any database challenge with ease.",
+      "duration": "1 Month",
+      "price": "15",
+      "instructor": {
+        "name": "Abdillahi Haji",
+        "description": "A skilled database engineer with years of experience in managing complex database systems. Abdillahi specializes in teaching SQL with a focus on practical applications and efficiency.",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Node & Express",
+      "type": "Back-End",
+      "technology": "Node, Express, Prisma..",
+      "description": "Looking to master Node.js and Express? Our comprehensive course will teach you how to build fast, scalable server-side applications using these powerful technologies. Dive into JavaScript on the backend and discover how Express simplifies routing and middleware. You'll learn how to create robust APIs, connect to databases, and handle user authentication. With hands-on exercises, you'll gain the practical experience needed to develop production-ready web apps with Node.js and Express. Start building your backend skills today!",
+      "duration": "3 Months",
+      "price": "20",
+      "instructor": {
+        "name": "Fatima Mouse",
+        "description": "A backend developer with a deep understanding of Node.js and Express. Fatima excels at breaking down complex concepts and guiding students through building scalable backend solutions.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Dart & Flutter",
+      "type": "Mobile App",
+      "description": "Excited to learn Dart and Flutter? This course will guide you through the process of creating beautiful, high-performance apps for mobile, web, and desktop. With Dart as your programming language and Flutter for building UIs, you'll learn how to develop apps that run seamlessly across platforms. From designing intuitive interfaces to connecting with databases and APIs, you’ll gain a deep understanding of app development. By the end of the course, you'll be able to build and deploy real-world applications, ready to wow users with your skills.",
+      "technology": "Dart, Flutter",
+      "duration": "2 Months",
+      "price": "10",
+      "instructor": {
+        "name": "Mahdi Moalim",
+        "description": "An accomplished mobile developer with a knack for creating cross-platform apps. Mahdi is dedicated to teaching Dart and Flutter with a focus on real-world development.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "React JS",
+      "type": "Front-End",
+      "description": "Interested in React? Our comprehensive, hands-on course will teach you how to build dynamic, interactive web applications with one of the most popular JavaScript libraries today. You'll learn how to work with components, manage state, handle events, and integrate APIs. Through practical examples, you'll understand how to create fast, responsive user interfaces that enhance the user experience. Whether you're building a single-page app or a complex web application, React will give you the tools to create engaging web experiences.",
+      "technology": "React.js",
+      "duration": "1 Month",
+      "price": "20",
+      "instructor": {
+        "name": "Jamma Abdi",
+        "description": "A React specialist with extensive experience in developing dynamic, single-page applications. Jamma loves helping students master React's powerful features.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "MongoDB",
+      "type": "Database",
+      "description": "Keen to explore MongoDB? Our hands-on course will introduce you to the world of NoSQL databases and teach you how to manage data effectively using MongoDB. You'll learn how to store, query, and update data in a flexible, scalable way. Discover how to design and structure databases for modern applications, and understand how MongoDB integrates with popular backend technologies like Node.js. By the end of the course, you'll be equipped to build data-driven apps that handle large volumes of unstructured data efficiently. Start mastering MongoDB today!",
+      "technology": "MongoDb, Mongoose..",
+      "duration": "1 Month",
+      "price": "15",
+      "instructor": {
+        "name": "Zamzam Hassan",
+        "description": "A NoSQL expert with a deep understanding of MongoDB's capabilities. Zamzam is passionate about helping students design and implement modern database solutions.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "title": "Ai for everything ",
+      "type": "AI",
+      "description": "learn Ai",
+      "duraation": "4",
+      "technology": "python",
+      "price": "49",
+      "instructor": {
+        "name": "Ibraahim Abdullaahi",
+        "description": "eng",
+        "contactEmail": "iprowpoi7@gmail.com",
+        "contactPhone": "+252611434258"
+      },
+      "id": "_XEUdiX-WAA"
+    },
+    {
+      "title": "Django for begginers",
+      "type": "Back-end",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore fuga est molestiae facilis neque omnis dolorum illum, consequatur pariatur. Nihil facere libero repudiandae aut soluta quaerat deserunt quas nemo expedita!\n",
+      "duration": "3 months",
+      "technology": "Django for backend and the best",
+      "price": "40",
+      "instructor": {
+        "name": "Eng Brahim Abdul ",
+        "description": "",
+        "contactEmail": "ipr@mail.ner",
+        "contactPhone": "6111434258"
+      },
+      "id": "6Wq98BO6-Tc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
